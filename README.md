@@ -155,6 +155,6 @@ Understanding adversary techniques allows security teams to design defenses that
 
 Author
 
-Richard T. Arowobusoye
+Dolapo Dada
 
 Cybersecurity | Threat Hunting | Security Operations
